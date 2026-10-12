@@ -5,3 +5,6 @@ uv.lock
 .venv/
 venv/
 mlruns/
+*.pyc
+mlflow.db
+logs/
